@@ -1,0 +1,16 @@
+code,brand,km,model,year,color,gearbox,option,price
+0,Peugeot,0,207,1399,Grey,Manual,Typical,310
+1,Peugeot,0,207,1400,White,Manual,Typical,320
+2,Peugeot,0,207,1400,Black,Manual,Typical,340
+3,Peugeot,0,207,1400,White,Manual,Typical,325
+4,Peugeot,0,207,1400,White,Manual,Typical,320
+5,Peugeot,0,207,1398,Black,Automatic,Typical,378
+6,Peugeot,0,207,1400,Silver,Automatic,Panaroma,420
+7,Peugeot,0,207,1399,Grey,Automatic,Panaroma,430
+8,Peugeot,0,207,1399,White,Manual,Panaroma,400
+9,Peugeot,0,207,1400,White,Automatic,Panaroma,425
+10,Peugeot,0,207,1400,Black,Automatic,Panaroma,425
+11,Peugeot,0,207,1400,Grey,Automatic,Typical,408
+12,Peugeot,0,207,1400,Black,Automatic,Panaroma,422
+13,Peugeot,0,207,1399,Grey,Manual,Panaroma,330
+14,Peugeot,0,207,1399,White,Manual,Typical,313
