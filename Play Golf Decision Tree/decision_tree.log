@@ -1,0 +1,25 @@
+|--- feature_0 <= 56.75
+|   |--- feature_1 <= 82.97
+|   |   |--- feature_0 <= 50.37
+|   |   |   |--- class: 0
+|   |   |--- feature_0 >  50.37
+|   |   |   |--- feature_1 <= 62.85
+|   |   |   |   |--- class: 0
+|   |   |   |--- feature_1 >  62.85
+|   |   |   |   |--- class: 1
+|   |--- feature_1 >  82.97
+|   |   |--- feature_0 <= 36.52
+|   |   |   |--- class: 0
+|   |   |--- feature_0 >  36.52
+|   |   |   |--- class: 1
+|--- feature_0 >  56.75
+|   |--- feature_1 <= 43.19
+|   |   |--- class: 0
+|   |--- feature_1 >  43.19
+|   |   |--- feature_1 <= 52.40
+|   |   |   |--- feature_0 <= 68.62
+|   |   |   |   |--- class: 0
+|   |   |   |--- feature_0 >  68.62
+|   |   |   |   |--- class: 1
+|   |   |--- feature_1 >  52.40
+|   |   |   |--- class: 1
