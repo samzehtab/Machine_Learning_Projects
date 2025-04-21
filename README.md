@@ -1,1 +1,1 @@
-In this repository, you can find different methods of regression, classification and other machine learning projects.
+In this repository, you can find different methods of regression, classification for machine learning projects along with data analysis projects which are mostly done with EDA method (Exploratory Data Analysis).
