@@ -2,4 +2,5 @@ Housing full EDA, data visualization and linear regression using the following m
 1.  Sklearn library,
 2.  Decision Tree modeling,
 3.  Random Forrest
+
 Also, model evaluation is done for each method.
